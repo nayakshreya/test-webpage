@@ -1,2 +1,2 @@
 # Basic HTML Webpage
-Front-end web application using HTML lists, images elements, tables, forms to display resume information along with con
+Front-end web application using HTML lists, images elements, tables, forms to display resume information along with contact me form.
